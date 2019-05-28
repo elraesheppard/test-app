@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="437724c3-38cb-4385-a915-dc2359306cda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/welcome/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/welcome/home.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-app.pub" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -38,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1260">
               <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../.ssh/id_rsa.pub">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="235" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -253,12 +264,12 @@
       <workItem from="1558509671964" duration="338000" />
       <workItem from="1558510291372" duration="489000" />
       <workItem from="1558510814870" duration="6353000" />
-      <workItem from="1558915168257" duration="13614000" />
+      <workItem from="1558915168257" duration="16487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20794000" />
+    <option name="totallyTimeSpent" value="23667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1537" height="816" extended-state="6" />
@@ -267,7 +278,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32107496" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32056737" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.50496453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -311,7 +322,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test_app@Development__test_app.rcov" NAME="Development: test-app Coverage Results" MODIFIED="1559008197097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test-app" />
+    <SUITE FILE_PATH="coverage/test_app@Development__test_app.rcov" NAME="Development: test-app Coverage Results" MODIFIED="1559012646675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test-app" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -350,13 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-app.pub">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="146" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -405,10 +409,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-app.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="146" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-app">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id_rsa">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="235" selection-end-line="1" />
         </state>
       </provider>
     </entry>
